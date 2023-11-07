@@ -1,1 +1,1 @@
-# trading-algorithms
+# QuantCraft - Strategies unleashed
