@@ -1,2 +1,1 @@
 # QuantCraft - Strategies unleashed
-a
